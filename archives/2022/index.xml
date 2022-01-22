@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on Jessica&#39;s home</title>
+    <link>https://twojessica.github.io/archives/2022/</link>
+    <description>Recent content in 2022 on Jessica&#39;s home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jan 2022 01:09:49 +0800</lastBuildDate>
+    
+        <atom:link href="https://twojessica.github.io/archives/2022/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://twojessica.github.io/2022/my-first-post/</link>
+      <pubDate>Sun, 23 Jan 2022 01:09:49 +0800</pubDate>
+      
+      <guid>https://twojessica.github.io/2022/my-first-post/</guid>
+      <description>HUGO blog theme A free blog theme for HUGO, with tags, archives, last posts… Using Bulma CSS framework.
+HUGO blog theme by JeffProd.com
+Install Install HUGO (https://gohugo.io/) then :
+hugo new site myblog cd myblog git clone https://github.com/Tazeg/hugo-blog-jeffprod.git themes/jeffprod In the file config.toml add the lines :
+theme = &amp;ldquo;jeffprod&amp;rdquo;
+[permalinks] post = &amp;ldquo;/:year/:filename&amp;rdquo;
+[taxonomies] tag = &amp;ldquo;tags&amp;rdquo; archive = &amp;ldquo;archives&amp;rdquo; Write blog posts hugo new post/my-first-post.md And edit this new file content/post/my-first-post.</description>
+    </item>
+    
+  </channel>
+</rss>
