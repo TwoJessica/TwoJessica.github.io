@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learn on Jessica&#39;s blog</title>
+    <link>http://twojessica.github.io/tags/learn/</link>
+    <description>Recent content in learn on Jessica&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://twojessica.github.io/tags/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>To learn</title>
+      <link>http://twojessica.github.io/2022/to_learn/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://twojessica.github.io/2022/to_learn/</guid>
+      <description>此为需要目前学习的清单。
+1.语言学习 拉丁语  视频 简明拉丁语 剑桥拉丁语  Lisp  视频 Land of lisp  2.算法 理论 数据挖掘 图论与集合论
+实践  git linux python  to do:
+ 搭建博客 整理想法和计划 学习任务和相关书籍  st=&amp;gt;start: 搭建博客 op=&amp;gt;operation: 学习hugo，markdown，ipfs cond=&amp;gt;condition: 效果评价？ e=&amp;gt;end st-&amp;gt;op-&amp;gt;cond cond(好)-&amp;gt;e cond(差)-&amp;gt;op hugo-&amp;gt;markdown:支持 Note right of markdown:语法 markdown-&amp;gt;hugo:应用 title 学习过程 section 学习理论 逻辑 ：a1,2022-01-24,3d 书籍 ：after a1，5d section 开始实践 python ：2022-02-01，5d 算法模型 ：2022-02-04，7d section 效果评价 理论评价：2d 实践评价：3d $$E = mc^2$$ PID大法</description>
+    </item>
+    
+  </channel>
+</rss>
